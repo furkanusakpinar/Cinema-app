@@ -2,6 +2,11 @@
 
 LeCinema, TMDb API kullanarak gerçek zamanlı film ve dizi verilerini modern, hızlı ve kullanıcı dostu bir arayüzle sunan bir web uygulamasıdır.
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![TMDb](https://img.shields.io/badge/TMDB-01D277?style=for-the-badge&logo=themoviedb&logoColor=white)
+
 ## ✨ Öne Çıkan Özellikler
 
 - **📽️ Zengin İçerik Listeleri:** Popüler, Trend, En Çok Oy Alan film ve dizileri anında keşfedin.
