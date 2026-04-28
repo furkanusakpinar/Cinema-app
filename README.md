@@ -44,9 +44,4 @@ npm run dev
 
 ---
 
-## 📸 Ekran Görüntüleri
-*(Uygulamadan ekran görüntülerini buraya ekleyebilirsiniz)*
-
----
-
 Bu proje eğitim ve portfolyo amacıyla **TMDb API** verileri kullanılarak geliştirilmiştir.
