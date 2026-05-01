@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🎬 LeCinema - Modern Film & Dizi Keşif Platformu
 
 LeCinema, TMDb API kullanarak gerçek zamanlı film ve dizi verilerini modern, hızlı ve kullanıcı dostu bir arayüzle sunan bir web uygulamasıdır.
