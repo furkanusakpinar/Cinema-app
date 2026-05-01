@@ -11,18 +11,18 @@ LeCinema, TMDb API kullanarak gerçek zamanlı film ve dizi verilerini modern, h
 
 ## ✨ Öne Çıkan Özellikler
 
-- 📽️ Zengin İçerik Listeleri:** Popüler, Trend, En Çok Oy Alan film ve dizileri anında keşfedin.
-- 🔍 Detaylı Bilgi:** Oyuncu kadrosu, bütçe, hasılat ve benzer içerik önerilerine ulaşın.
-- 🎥 Fragman İzleme:** YouTube entegrasyonu sayesinde film fragmanlarını uygulama içinden izleyin.
-- 📱 Tam Uyumluluk:** Mobil, tablet ve masaüstü cihazlar için optimize edilmiş responsive tasarım.
-- ⚡ Yüksek Performans:** Vite ve React ile hızlı yükleme süreleri.
+**📽️ Zengin İçerik Listeleri:** Popüler, Trend, En Çok Oy Alan film ve dizileri anında keşfedin.
+**🔍 Detaylı Bilgi:** Oyuncu kadrosu, bütçe, hasılat ve benzer içerik önerilerine ulaşın.
+**🎥 Fragman İzleme:** YouTube entegrasyonu sayesinde film fragmanlarını uygulama içinden izleyin.
+**📱 Tam Uyumluluk:** Mobil, tablet ve masaüstü cihazlar için optimize edilmiş responsive tasarım.
+**⚡ Yüksek Performans:** Vite ve React ile hızlı yükleme süreleri.
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- Frontend:** React 19, Vite, Vanilla CSS
-- API & Veri:** Axios, TMDb (The Movie Database) API
-- Navigasyon:** React Router Dom
-- İkonlar:** Lucide & Custom SVG
+Frontend:** React 19, Vite, Vanilla CSS
+API & Veri:** Axios, TMDb (The Movie Database) API
+Navigasyon:** React Router Dom
+İkonlar:** Lucide & Custom SVG
 
 ## 🚀 Başlangıç
 
